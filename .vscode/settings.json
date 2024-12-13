@@ -1,0 +1,21 @@
+{
+    "idf.adapterTargetName": "esp32c6",
+    "idf.openOcdConfigs": [
+        "board/esp32c6-builtin.cfg"
+    ],
+    "idf.portWin": "COM29",
+    "idf.flashType": "UART",
+
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "files.associations": {
+        "system_error": "cpp",
+        "new": "cpp",
+        "functional": "cpp",
+        "*.tcc": "cpp",
+        "streambuf": "cpp",
+        "array": "cpp"
+    },
+    "files.encoding": "utf8"
+}
